@@ -471,7 +471,8 @@ h6 {
 #virtual_tour {
   width: 100%;
   height: 75vh;
-  background: url("../img/about-us-top.jpg") center/cover no-repeat scroll;
+  background: url("../img/Virtual_Tour/header/Matterport_360_Header_Picture.jpg")
+    center/cover no-repeat scroll;
   position: relative;
 }
 
@@ -486,7 +487,7 @@ h6 {
 #digital_media {
   width: 100%;
   height: 75vh;
-  background: url("../img/dji_Fort-Lauderdal_Header-scaled-e1675809406846.jpg")
+  background: url("../img/Digital_Media_Page/Digital_Media_Header/Downtown_Fort_Lauderdale_1.jpg")
     center/cover no-repeat scroll;
   position: relative;
 }
@@ -494,14 +495,14 @@ h6 {
 #about_img {
   width: 100%;
   height: 75vh;
-  background: url("../img/Fort-Lauderdale_1_DC-e1675821993259.jpg") center/cover
-    no-repeat scroll;
+  background: url("../img/About_Page/Top_Photo/Fort_Lauderdale_1_DC.jpg")
+    center/cover no-repeat scroll;
 }
 
 #digital_photography {
   width: 100%;
   height: 75vh;
-  background: url("../img/Downtown-Fort-Lauderdale_1-scaled-e1676385078426.jpg")
+  background: url("../img/Digital_Media_Page/Digital_Media_Header/Downtown_Fort_Lauderdale_1.jpg")
     center/cover no-repeat scroll;
 }
 
